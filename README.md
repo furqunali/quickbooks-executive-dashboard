@@ -5,7 +5,7 @@ business and get an instant, interactive **executive dashboard** — Sales, Prod
 Inventory, and Receivables — with KPIs, charts, drill-downs, Excel/PDF export, and a
 grounded analyst chat. Entirely client-side; no server, no build step.
 
-> **Live demo:** _(add your Vercel URL here)_
+> **Live demo:** https://quickbooks-executive-dashboard.vercel.app
 >
 > This public demo ships with a **fictional sample company ("Demo Gummies Co")** so it
 > can be shared safely. Upload your own QuickBooks report pack to analyze real data —
